@@ -16,8 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Ref Developer
-Contact:
-cmurakayo@gmail.com
-+254704302646
 To change the image, visit the MyHome.dart file page then input a picture address Url from any of your photos online
 To change the Information on the about page, check about.dart file page. Everything is all there clearly
